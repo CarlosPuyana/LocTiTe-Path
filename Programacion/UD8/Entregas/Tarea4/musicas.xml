@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Spotify>
+    <musiquita duracion="120">
+        <artista>Ayax</artista>
+        <titulo>La Dama de la Guadaña</titulo>
+    </musiquita>
+    <musiquita duracion="90">
+        <artista>2Pac</artista>
+        <duracion>California Love</duracion>
+    </musiquita>
+</Spotify>
